@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "5e2a552a38b3bd766a0167ff_incline-dumbbell-fly-exercise-anabolic-aliens.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
